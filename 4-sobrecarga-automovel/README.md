@@ -1,0 +1,1 @@
+Construa a classe AutomóvelLuxo que é filha da classe automóvel básico. Estes automoveis podem ter direçAo hidraulica (R$ 5.340), cambio automático(R$ 7.500) e vidros eletricos (R$ 3.000). Além disto, é possivel comprar carros de luxo em 36 prestacoes. Construa os quantoCusta, toString e uma aplicação para instaciar e consultar o preços dos carros.

@@ -1,0 +1,1 @@
+ Faça no Bluej, a resolução da primeira avaliação.
